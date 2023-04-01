@@ -1,0 +1,3 @@
+Aby rozpocząć działanie skryptu wpisz komende "bash fivem.sh"
+				Miłego korzystania ze skryptu! :)
+						 by adeuszx ♥
